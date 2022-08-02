@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dbqlsilt2/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1659468700/a/0_x4rQFjfi0iK3gS1T_qg0bcb.gif" alt="js-banner" width="100%" >
+  <img src="https://res.cloudinary.com/dbqlsilt2/image/upload/v1659468700/a/0_x4rQFjfi0iK3gS1T_qg0bcb.gif" alt="js-banner" width="100%" border-radius="10px" >
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
