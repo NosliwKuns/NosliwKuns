@@ -1,6 +1,6 @@
-<img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello" style="height:200px, display: flex, justify-content:center"  >
+<img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello" style="height:200px" >
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
-<span style="color:red"> *some emphasized markdown text*</span>
+<span text-decoration:none color: green> *some emphasized markdown text*</span>
 <span style="color:blue">some *blue* text</span>.
 
 
