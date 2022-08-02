@@ -1,8 +1,6 @@
-## <h1 align="center"> Hi 👋, I'm Antoni Quispealaya <h1>
+<h1 align="center"> Hi 👋, I'm Antoni Quispealaya <h1>
 
-<h1 align="center">
-  my text here.
-</h1>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
