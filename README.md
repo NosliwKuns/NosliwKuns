@@ -3,6 +3,22 @@
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
+- In order to free :
+
+    - Items no rateados por exp: 
+
+```javascript
+db.items.find({"detail.rc": {$lt: 20}, "dst": "v"}).count()
+db.items.find({"detail.rc": {$lt: 20}, "dst": "b"}).count()
+```
+
+    - Items no rateados por exp y sin rat:
+
+```javascript
+db.items.find({"detail.rc": {$lt: 20}, "dst": "v"}).count()
+db.items.find({"detail.rc": {$lt: 20}, "dst": "b"}).count()
+```
+
 *🌱 I’m currently learning Kotlin, Python
 
 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize
