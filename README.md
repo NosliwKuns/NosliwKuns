@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello" width="33%" >
+  <img src="https://res.cloudinary.com/dbqlsilt2/image/upload/v1659468700/a/0_x4rQFjfi0iK3gS1T_qg0bcb.gif" alt="js-banner" width="100%" >
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
