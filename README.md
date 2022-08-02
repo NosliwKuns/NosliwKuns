@@ -1,4 +1,4 @@
-<img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello">
+<img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello" style="height:100px">
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 <span style="color:red"> *some emphasized markdown text*</span>
 <span style="color:blue">some *blue* text</span>.
