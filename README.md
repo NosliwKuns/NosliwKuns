@@ -30,6 +30,7 @@ const aboutMe = {
 - 💬 Ask me about whatever you want, I'm open to help or share
 
 - 📫 How to reach me: 
+  - <a href="https://www.linkedin.com/in/antoni-quispealaya-front/">LinkedIn</a>
   - quispealaya73@gmail.com
 
 <h3>Languages and Tools:</h3>
