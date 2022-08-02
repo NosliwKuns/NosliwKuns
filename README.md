@@ -3,6 +3,11 @@
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
+*🌱 I’m currently learning Kotlin, Python
+
+💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize
+
+📫 How to reach me bpinedalopera@gmail.com
 
 <h3>Languages and Tools:</h3>
 <p align="center">
