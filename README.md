@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello" style="height:200px" >
+  <img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello" width="33%" >
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
-<span text-decoration:none style="color:blue"> *some emphasized markdown text*</span>
-$\color{color-code}{your-text-here}$
-
-<font color='red'>test blue color font</font>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
