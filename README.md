@@ -19,7 +19,7 @@ db.items.find({"detail.rc": {$lt: 20}, "dst": "v"}).count()
 db.items.find({"detail.rc": {$lt: 20}, "dst": "b"}).count()
 ```
 
--🌱 I’m currently learning Kotlin, Python
+-|🌱 I’m currently learning Kotlin, Python
 
 -💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize
 
