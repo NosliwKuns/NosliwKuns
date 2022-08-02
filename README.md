@@ -4,27 +4,31 @@
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
 24-year-old Peruvian passionate about technology, design and personal and professional development.
-- In order to free :
-
-    - Items no rateados por exp: 
 
 ```javascript
-db.items.find({"detail.rc": {$lt: 20}, "dst": "v"}).count()
-db.items.find({"detail.rc": {$lt: 20}, "dst": "b"}).count()
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Sass", "Tailwind "]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "PostgreSQL"],
+   },
+   currentOccupation: ["Freelance web developer"],
+};
 ```
 
-    - Items no rateados por exp y sin rat:
+- 🌱 I’m currently learning Advanced Frontend Development with React. And also UI/UX design.
 
-```javascript
-db.items.find({"detail.rc": {$lt: 20}, "dst": "v"}).count()
-db.items.find({"detail.rc": {$lt: 20}, "dst": "b"}).count()
-```
+- 💬 Ask me about whatever you want, I'm open to help or share
 
-- 🌱 I’m currently learning Kotlin, Python
-
-- 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize
-
-- 📫 How to reach me bpinedalopera@gmail.com
+- 📫 How to reach me: 
+  - quispealaya73@gmail.com
 
 <h3>Languages and Tools:</h3>
 <p align="center">
