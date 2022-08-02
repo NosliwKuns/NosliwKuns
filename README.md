@@ -3,6 +3,7 @@
 <span text-decoration:none style="color:blue"> *some emphasized markdown text*</span>
 $\color{color-code}{your-text-here}$
 
+<font color='red'>test blue color font</font>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
