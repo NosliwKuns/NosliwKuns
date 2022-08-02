@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
-<img src="https://camo.githubusercontent.com/b4ff7f14956d1e5…a6176615363726970745f6c6f676f5f322e7376672e706e67" alt="javascript" height="40px" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html" height="40px" >
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
