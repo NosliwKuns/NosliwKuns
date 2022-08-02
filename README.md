@@ -1,5 +1,5 @@
 <img src="https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg" alt="hello">
-<h1 align="center" color="red"> Hi 👋, I'm Antoni Quispealaya </h1>
+<h1 align="center" style={{color="red"}}> Hi 👋, I'm Antoni Quispealaya </h1>
 
 
 - 👀 I’m interested in ...
