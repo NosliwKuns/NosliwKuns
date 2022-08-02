@@ -1,8 +1,8 @@
 ## <p align=center> Hi 👋, I'm Antoni Quispealaya
 
-<div align="center">
+<h1 align="center">
   my text here.
-</div>
+</h1>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
