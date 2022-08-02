@@ -3,7 +3,9 @@
 </p>
 <h1 align="center" style="color:red"> Hi 👋, I'm Antoni Quispealaya </h1>
 
+<p align="center">
 24-year-old Peruvian passionate about technology, design and personal and professional development.
+</p>
 
 ```javascript
 const aboutMe = {
